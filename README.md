@@ -16,6 +16,6 @@ Cheers,
 
 Matt
 
-mc@splunk.com
+mcollins@splunk.com
 
 https://github.com/mcollins-splunk/skype_khi
