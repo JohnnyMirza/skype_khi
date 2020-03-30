@@ -10,12 +10,12 @@ These inputs were built to ingest data recommended by Microsoft for:
 
 Visualisations have not been built for this yet as I don't have access to an environment with this information at this point in time.
 
-I am not a Lync/Skype SME so if you have recommendations for improvements or find issues update the project. Additionally if you are willing to share your environment/data so I can build some visualisations please let me know.
+I am not a Lync/Skype SME so if you have recommendations for improvements or find issues please let me know. Additionally if you are willing to provide me with an export of the data so I can build some visualisations please let me know.
 
 Cheers,
 
 Matt
 
-mcollins@splunk.com
+mc@splunk.com
 
 https://github.com/mcollins-splunk/skype_khi
