@@ -13,6 +13,9 @@ Visualisations have not been built for this yet as I don't have access to an env
 I am not a Lync/Skype SME so if you have recommendations for improvements or find issues update the project. Additionally if you are willing to share your environment/data so I can build some visualisations please let me know.
 
 Cheers,
+
 Matt
+
 mcollins@splunk.com
+
 https://github.com/mcollins-splunk/skype_khi
